@@ -7,7 +7,7 @@ public class Main {
 		
 		Scanner scanner = new Scanner(System.in);
 		System.out.println("Which operation do you want?");
-		System.out.println("1 - Sum / 2 - Subtraction (A-B)/ 3 - Multiplication / 4 - Division (A/B)");
+		System.out.println("1 - Addition / 2 - Subtraction (A-B)/ 3 - Multiplication / 4 - Division (A/B)");
 		int operation = scanner.nextInt();
 		
 		if (operation>0 && operation <=4) {
@@ -39,6 +39,8 @@ public class Main {
 		else {
 			System.out.println("Invalid option.");
 		}
+		
+		scanner.close();
 		
 	}
 	
