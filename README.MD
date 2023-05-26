@@ -1,7 +1,8 @@
 #JAVA BASIC CALCULATOR
-##V1.0
+##V2.0
 
 
-This is my first Java project. 
-I created a simple calculator using the four basic arithmetic operators (addition, subtraction, multiplication and dividion).
-I also used If statement and Switch.
+At first I created a simple calculator with the four basic arithmetic operatiors (addition, subtraction, multiplication and dividion), using only if and switch statements.
+
+In this new version, I updated the calculator using my newly acquired knowledge of methods.
+
